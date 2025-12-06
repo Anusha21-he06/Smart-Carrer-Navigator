@@ -1,0 +1,5 @@
+{
+  "name": "Smart Career Navigator",
+  "description": "An AI-powered career guidance platform utilizing Google Gemini for personalized learning pathways and industry trend analysis.",
+  "requestFramePermissions": []
+}
